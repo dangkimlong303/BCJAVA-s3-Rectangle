@@ -20,4 +20,5 @@ public class Rectangle {
     public String display(){
         return "Rectangle{" + "width= " + this.width + " height= " + height + "}";
     }
+
 }
